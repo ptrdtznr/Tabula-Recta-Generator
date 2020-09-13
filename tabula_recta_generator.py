@@ -13,18 +13,14 @@ def get_random_char():
 
 
 def tabula_recta_generator():
-
-    alphabet = list(string.ascii_lowercase)
-
-    for x in range(0, len(alphabet)):
-        print(alphabet[x],  end=SPACING)
-    print()
-
+    alphabet = list(string.ascii_uppercase)  
+    # print header
+    print(4*" ",end="")   
+    print(" | ".join(alphabet))
+    # print password-table
     for row in range(0, len(alphabet)):
-        print(alphabet[row],  end=SPACING)
-        for column in range(0, len(alphabet)-1):
-            print(get_random_char(), end=SPACING)
-        print("")
+        print(alphabet[row],  end=SPACING) 
+        print(" | ".join([get_random_char() for _ in range(len(alphabet))])) 
 
 
 if __name__ == '__main__':
