@@ -8,33 +8,33 @@ Old-school cipher technique to keep your wallet-friendly passwords secure. This 
 python3 tabula_recta_generator.py
 Set your private seed (or leave blank for random): 
 
-a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z | 
-a | ^ | S | $ | 6 | 1 | R | { | ? | V | K | l | V | q | n | S | f | F | M | q | z | O | U | A | 2 | @ | 
-b | U | T | > | T | N | 8 | % | h | 6 | s | O | e | B | * | d | X | t | v | L | Q | u | U | X | Q | W | 
-c | + | > | g | u | X | Q | I | S | O | R | t | A | @ | W | { | j | + | l | c | I | % | < | g | % | M | 
-d | - | + | c | m | @ | I | % | C | w | * | E | m | ? | F | g | 9 | P | 9 | S | l | V | 3 | W | + | l | 
-e | 6 | q | A | 2 | G | i | B | 5 | O | 1 | % | | | w | U | w | $ | M | V | U | T | x | n | i | } | D | 
-f | Y | O | # | < | 4 | J | Z | _ | 4 | $ | + | 0 | C | ^ | O | - | O | ; | & | > | H | ) | x | ! | Q | 
-g | L | Z | I | } | Q | ! | u | d | W | L | u | * | n | { | z | z | R | K | } | ^ | I | H | t | 9 | y | 
-h | C | { | H | 7 | A | K | V | f | ( | _ | z | J | 2 | _ | C | v | | | < | 8 | Y | v | p | 0 | z | Z | 
-i | t | R | i | < | _ | 1 | v | j | H | i | 5 | @ | B | ; | 5 | | | ^ | * | j | D | X | 4 | c | X | # | 
-j | P | v | e | 2 | M | K | G | _ | $ | B | g | Q | 1 | G | ( | n | 6 | 0 | X | ; | x | T | m | ) | p | 
-k | % | T | ^ | d | 6 | I | * | d | ? | F | Z | b | w | H | P | C | < | k | 9 | S | H | $ | Q | ^ | E | 
-l | N | b | D | y | x | 7 | 8 | V | _ | t | B | # | c | B | N | X | G | 0 | g | Q | _ | M | N | _ | k | 
-m | 2 | + | y | Z | w | N | h | V | t | u | ) | > | d | n | @ | z | Q | J | h | X | R | + | l | ) | O | 
-n | e | P | s | u | i | b | 1 | e | y | Z | J | X | e | @ | P | 0 | ^ | y | o | 8 | W | b | g | i | v | 
-o | I | P | K | * | y | m | > | w | K | P | r | 4 | G | N | Z | < | $ | v | # | 7 | a | W | ; | R | I | 
-p | w | & | W | ? | 3 | T | a | N | Y | E | ( | 5 | u | w | C | } | k | | | M | F | - | f | a | { | h | 
-q | N | R | z | 5 | b | ; | X | 5 | Q | B | D | Y | > | a | & | F | { | m | ) | & | B | W | f | r | h | 
-r | & | A | - | 3 | 6 | N | n | c | - | Z | 3 | E | T | 8 | E | - | p | ? | _ | h | k | D | c | p | w | 
-s | 8 | # | Z | W | Q | & | a | $ | L | V | > | c | e | H | ( | H | u | l | a | | | 0 | ) | E | L | ? | 
-t | S | ? | ? | @ | 7 | f | # | r | 6 | $ | ; | E | Z | * | W | % | N | L | k | f | x | | | - | g | * | 
-u | a | ? | a | u | t | f | 7 | 3 | s | 1 | U | U | G | J | t | n | R | ) | _ | 0 | R | 9 | ; | L | C | 
-v | 3 | y | E | Y | % | i | 1 | Q | 6 | & | k | z | G | k | L | - | ) | b | I | j | G | R | P | e | % | 
-w | } | E | V | n | I | y | b | T | T | % | ? | i | 7 | i | n | Z | T | O | d | g | a | V | ? | T | A | 
-x | U | F | 0 | ; | l | 5 | P | Y | - | w | @ | L | + | & | 5 | ? | 2 | Z | D | ! | y | d | | | y | O | 
-y | } | 6 | F | 3 | D | W | ^ | | | I | 7 | * | 5 | W | f | ( | f | k | N | 6 | | | h | 3 | G | * | W | 
-z | b | @ | x | 1 | D | 4 | T | A | } | k | $ | { | f | e | ^ | * | @ | v | 0 | b | & | b | d | 0 | A |
+    A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z
+A | y | Z | w | $ | J | ; | J | l | y | n | | | % | > | ) | # | ; | ) | i | t | x | k | r | 7 | b | d | 0
+B | 6 | 8 | S | c | e | L | a | ? | W | l | C | n | ( | J | e | J | @ | ( | ^ | B | s | ^ | J | $ | ! | $
+C | X | k | _ | $ | U | 0 | D | ) | x | l | g | < | Y | # | ) | A | * | * | 9 | z | j | _ | # | C | Y | P
+D | O | X | # | g | F | G | c | 2 | j | ; | & | i | g | V | ) | - | d | h | T | ( | L | h | h | K | 2 | 8
+E | m | 4 | z | v | V | D | W | W | D | _ | F | R | u | 3 | | | O | c | v | x | ; | d | D | p | Q | V | I
+F | 4 | w | h | R | a | k | 2 | 7 | 2 | ) | l | Q | O | | | { | ! | p | i | l | 8 | M | M | R | r | $ | |
+G | j | n | Y | T | K | h | h | t | > | i | 5 | L | Y | p | ( | W | b | F | { | B | E | @ | 7 | K | { | o
+H | K | W | Q | m | I | _ | p | S | e | 1 | a | q | l | Y | 3 | u | | | @ | > | ! | B | N | h | & | q | U
+I | % | L | k | r | t | c | z | * | v | B | @ | g | r | O | { | } | t | d | Y | 6 | > | F | M | - | * | R
+J | d | * | v | v | % | Z | Y | q | 3 | E | * | 0 | h | D | E | a | d | w | < | R | ; | s | m | H | 7 | y
+K | T | i | & | 2 | U | ( | a | ! | K | > | W | 0 | T | 8 | > | ) | B | O | f | 2 | M | 9 | 3 | 8 | V | m
+L | l | % | _ | Q | Y | p | x | - | ; | + | 6 | % | l | i | F | U | e | d | V | H | z | g | X | ! | P | 5
+M | C | - | I | D | C | L | l | r | J | | | u | q | 8 | & | X | 9 | r | { | # | 6 | J | K | J | S | D | e
+N | C | a | 4 | s | { | j | 1 | Y | V | x | m | z | { | d | Z | H | G | ^ | C | * | l | u | _ | b | L | !
+O | < | 9 | | | R | i | x | K | 2 | 6 | 5 | X | C | k | 2 | R | K | * | * | m | 6 | z | 7 | z | z | s | F
+P | 9 | m | Z | G | ) | _ | z | H | y | D | j | N | V | H | i | | | V | _ | ^ | e | ; | e | h | q | E | u
+Q | 7 | @ | g | i | P | h | b | x | % | + | o | U | R | I | S | $ | P | } | H | v | ! | ? | 6 | O | ( | S
+R | n | ) | & | X | G | 8 | } | 4 | T | 2 | w | D | E | z | z | s | L | l | v | N | > | T | 0 | | | R | b
+S | s | # | % | Z | m | f | P | n | R | T | # | V | f | ? | f | a | c | h | $ | x | n | ! | I | T | F | #
+T | g | w | q | b | + | v | L | D | D | a | H | 8 | g | t | V | K | J | F | Z | 1 | p | | | ? | { | 1 | H
+U | 1 | 8 | l | ) | I | ^ | # | P | ) | ) | w | i | 0 | r | 6 | & | V | Q | w | W | X | r | y | _ | F | 5
+V | g | h | % | > | X | T | o | d | V | K | D | W | p | 7 | ! | C | ; | H | % | 5 | J | t | < | | | n | 8
+W | % | U | r | 2 | e | v | ? | l | H | v | T | 3 | $ | v | < | 0 | A | 9 | N | @ | * | ! | k | b | N | u
+X | ; | + | 0 | R | - | V | 1 | Y | ; | p | x | j | A | % | a | P | Y | 0 | K | } | j | # | & | $ | Q | S
+Y | K | X | | | d | W | * | p | 6 | ! | n | E | v | V | $ | x | 9 | o | z | 5 | c | | | J | y | - | L | z
+Z | + | } | 6 | @ | 3 | f | G | K | + | | | 7 | W | 5 | W | < | 6 | 5 | I | + | 4 | ; | C | < | X | K | $
 ```
 If you want to recreate your password table just use a seed ;-)
 
