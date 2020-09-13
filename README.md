@@ -5,7 +5,7 @@ Old-school cipher technique to keep your wallet-friendly passwords secure. This 
 # Usage:
 
 ```python3
-python3 tabula.py
+python3 tabula_recta_generator.py
 Set your private seed (or leave blank for random): 
 
 a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z | 
