@@ -38,11 +38,10 @@ Z | + | } | 6 | @ | 3 | f | G | K | + | | | 7 | W | 5 | W | < | 6 | 5 | I | + | 
 ```
 If you want to recreate your password table just use a seed ;-)
 
-
 # Example
 
 - Choose a password length, e.g. 12 characters
 - Go to your website, e.g. www.gmail.com
 - Find the intersection of column 'i' and row 'l', representing the end of gma*_il_*. 
-- Starting at 'V', skip every second character and your password will be: *Vt#BX0QM_NDx*.
+- Starting at 'V', skip every second character and your password will be: "*;6lFeVzXPl_Y*." (its ugly)
 - Use any schema (diagonally, vertical, skip-two-chars-go-to-nextline, ...)
