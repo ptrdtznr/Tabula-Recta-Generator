@@ -1,8 +1,8 @@
 # Tabula-Recta-Generator
-Old-school cipher technique to keep your wallet-friendly passwords secure. This idea is based on the Lifehacker.com article [How to Write Down and Encrypt Your Passwords with an Old-School Tabula Recta](https://lifehacker.com/how-to-write-down-and-encrypt-your-passwords-with-an-ol-5715794). 
-
+Old-school cipher technique to keep your wallet-friendly passwords secure. This idea is based on the Lifehacker.com article [How to Write Down and Encrypt Your Passwords with an Old-School Tabula Recta](https://lifehacker.com/how-to-write-down-and-encrypt-your-passwords-with-an-ol-5715794). However, sometime I like being "analog" instead of being an digital native. I do have a small print in my wallet and I am using it ;-) 
 
 # Usage:
+To execute the tabula-recta-generator you just need python3 installed (tested on Ubuntu 20.04)
 
 ```
 python3 tabula_recta_generator.py
@@ -36,12 +36,12 @@ X | ; | + | 0 | R | - | V | 1 | Y | ; | p | x | j | A | % | a | P | Y | 0 | K | 
 Y | K | X | | | d | W | * | p | 6 | ! | n | E | v | V | $ | x | 9 | o | z | 5 | c | | | J | y | - | L | z
 Z | + | } | 6 | @ | 3 | f | G | K | + | | | 7 | W | 5 | W | < | 6 | 5 | I | + | 4 | ; | C | < | X | K | $
 ```
-If you want to recreate your password table just use a seed ;-)
+If you want to recreate your password table just set a seed ;-)
 
 # Example
 
 - Choose a password length, e.g. 12 characters
-- Go to your website, e.g. www.gmail.com
-- Find the intersection of column 'i' and row 'l', representing the end of gma*_il_*. 
-- Starting at 'V', skip every second character and your password will be: "*;6lFeVzXPl_Y*." (its ugly)
-- Use any schema (diagonally, vertical, skip-two-chars-go-to-nextline, ...)
+- Creating a password for your gmail mailbox, just do the following
+- Find the intersection of column 'i' and row 'l', representing the end of gma*il*. Feel free also to use *gm*ail or increase the characters from *gmail* into *hnbjm* or whatever ;)
+- Starting at 'V', skip every second character and your password will be: "*;6lFeVzXPl_Y*". It is not beautiful, but it will work.
+- Use any schema you want, for example diagonally, vertical, skip-two-chars-go-to-nextline, ...
